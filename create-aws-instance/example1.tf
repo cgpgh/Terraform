@@ -1,7 +1,7 @@
 provider "aws" {
   profile    = "default"
   region     = "us-east-1"
-  shared_credentials_file = "/home/cyrilgp/.aws/credentials"
+  shared_credentials_file = "$HOME/.aws/credentials"
   
 }
 

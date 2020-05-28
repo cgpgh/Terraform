@@ -1,3 +1,3 @@
-variabale "region" {
+variable "region" {
 
 }
